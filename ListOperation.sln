@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOperation", "ListOperation\ListOperation.csproj", "{7946CAEA-1A70-4FDC-953D-3612555011A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7946CAEA-1A70-4FDC-953D-3612555011A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7946CAEA-1A70-4FDC-953D-3612555011A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7946CAEA-1A70-4FDC-953D-3612555011A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7946CAEA-1A70-4FDC-953D-3612555011A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B82DD5-18A3-4433-8362-D78D1368B117}
+	EndGlobalSection
+EndGlobal

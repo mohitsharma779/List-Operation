@@ -1,0 +1,7 @@
+C:\Users\Aman Kumar\source\repos\ListOperation\ListOperation\bin\Debug\ListOperation.exe.config
+C:\Users\Aman Kumar\source\repos\ListOperation\ListOperation\bin\Debug\ListOperation.exe
+C:\Users\Aman Kumar\source\repos\ListOperation\ListOperation\bin\Debug\ListOperation.pdb
+C:\Users\Aman Kumar\source\repos\ListOperation\ListOperation\obj\Debug\ListOperation.csprojAssemblyReference.cache
+C:\Users\Aman Kumar\source\repos\ListOperation\ListOperation\obj\Debug\ListOperation.csproj.CoreCompileInputs.cache
+C:\Users\Aman Kumar\source\repos\ListOperation\ListOperation\obj\Debug\ListOperation.exe
+C:\Users\Aman Kumar\source\repos\ListOperation\ListOperation\obj\Debug\ListOperation.pdb
